@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yvnix
 - 👀 I’m interested in programming and playing
 - 🌱 I’m currently learning Java, C#, Python
-- 💞️ I’m looking my true love
+- 💞️ I’m looking for my true love
 - 📫 Contact: later...
 
 <!---
